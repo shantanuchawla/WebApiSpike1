@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSpike1", "WebApiSpike1\WebApiSpike1.csproj", "{DCAB23EA-AD34-48E5-BB48-F937E2E8506C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostingWebApi", "SelfHostingWebApi\SelfHostingWebApi.csproj", "{99A3F9DC-5908-41BC-A99C-AF75EC37C408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSpikeClient", "WebApiSpikeClient\WebApiSpikeClient.csproj", "{5B5F13E5-72A9-4485-87C1-AED11B518730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAB23EA-AD34-48E5-BB48-F937E2E8506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAB23EA-AD34-48E5-BB48-F937E2E8506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAB23EA-AD34-48E5-BB48-F937E2E8506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAB23EA-AD34-48E5-BB48-F937E2E8506C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A3F9DC-5908-41BC-A99C-AF75EC37C408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A3F9DC-5908-41BC-A99C-AF75EC37C408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A3F9DC-5908-41BC-A99C-AF75EC37C408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A3F9DC-5908-41BC-A99C-AF75EC37C408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B5F13E5-72A9-4485-87C1-AED11B518730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5F13E5-72A9-4485-87C1-AED11B518730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5F13E5-72A9-4485-87C1-AED11B518730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5F13E5-72A9-4485-87C1-AED11B518730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
